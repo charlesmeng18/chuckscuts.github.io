@@ -587,8 +587,9 @@ About
     font-weight: 700;
 }
 .progress-cont {
-    display: inline-block;
-    float: right;
+	display: inline-block;
+	/* Changed from float:right */
+    float: none;
     margin-right: 10px;
 }
 .progress-bar-linear .progress-bar-skills {
