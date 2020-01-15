@@ -148,9 +148,10 @@ $(function(){
         navBar.removeClass("nav-sticky");
       }
 
-      // Show Also Scroll up Button
       // *This is where I decided to remove the scroll to top button
       $('.scroll-up').removeClass("show-up-btn");
+      
+      // Show Also Scroll up Button
       // if ( top >= 1000 ) {
       //   $('.scroll-up').addClass("show-up-btn");
       // } else {
