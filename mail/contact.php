@@ -17,7 +17,7 @@
         }
 
         // Set the recipient email address.
-        $recipient = "cmeng@g.hmc.edu"; // Change This Email
+        $recipient = "cmeng@g.hmc.edu";
 
         // Set the email subject.
         $subject = "New contact from $name";
